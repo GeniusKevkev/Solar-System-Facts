@@ -1,6 +1,5 @@
 # Solar-System-Facts 
 In this repository. You will be learning mainly about the solar system! Facts would also be listed and update! I hope you look and enjoy!
-The Sun 
 The biggest, hottest, and most dangerous objects in our solar system. The sun. It is 696340 km in radius and would become 100 million to a billion km in radius!!! Imagine how big is that! Well, you still have to wait 4 billion years for that! Due to its nuclear fission in the center of the sun, the sun would become much bigger and swallow mercury, venus and destroy Earth’s atmosphere! In this case, there will be no more life to exist on Earth! The sun’s surface is 5600 celsius and down to its core where all the pressure is 15,000,000 celsius!!!! When the sun turns into a red giant, the sun will cool down! The sun is not a supergiant and won't create supernova! It is a medium giant star! The sun is a ball of gas, which inside is made of 91.0% hydrogen and 8.9% helium. By mass, the Sun is about 70.6% hydrogen and 27.4% helium. Hydrogen inside the sun’s core has been cleared/pressured into helium atoms! Here are some fun facts about the sun!
 - The Sun accounts for 99.86% of the mass in the solar system.
 - Over one million Earths could fit inside the Sun.
@@ -11,15 +10,15 @@ The biggest, hottest, and most dangerous objects in our solar system. The sun. I
 - The Sun rotates in the opposite direction to Earth
 
 
-Mercury 
-Mercury is the smallest terrestrial planet in our solar system! It is 2439.7 km in ( Radius ) and is 59.617 million km from the sun! Due to the closeness of Mercury is to the sun, Mercury is getting smaller and also Mercury’s atmosphere was burned away from the sun. If Mercury wasn't so close to the sun, it would have a slight chance to get liquid and an atmosphere! Mercury is also one of the slowest rotating planets because it doesn’t have a moon which keeps it stable in axis and rotation! For every 2 orbits of the Sun, which takes around 88 Earth days, Mercury completes three rotations of its axis. Mercury also has insane temperatures! On its sunny side, Mercury can reach a scorching 800 degrees Fahrenheit! On its cold side, Mercury can reach a freezing -300 degrees Fahrenheit!
+              
+Mercury is the smallest terrestrial planet in our solar system! It is 2439.7 km in ( Radius ) and is 59.617 million km from the sun! It is so small, you can jump at a height of 1.32m on average!!! Due to the closeness of Mercury is to the sun, Mercury is getting smaller and also Mercury’s atmosphere was burned away from the sun. In fact, the sun is burning Mercury itself! If Mercury wasn't so close to the sun, it would have a slight chance to get liquid and an atmosphere! Mercury is also one of the slowest rotating planets because it doesn’t have a moon which keeps it stable in axis and rotation! For every 2 orbits of the Sun, which takes around 88 Earth days, Mercury completes three rotations of its axis. Mercury also has insane temperatures! On its sunny side, Mercury can reach a scorching 800 degrees Fahrenheit! On its freezing side, Mercury can reach a freezing -300 degrees Fahrenheit!
 
-Venus
+         
 Venus is the hottest terrestrial planet that can reach a scorching temperature of more than 880 degrees Fahrenheit and is 6051.8 Km ( Radius ) in size close to the size of Earth!  Woah! Venus is 108.47 million Km from the sun ( Way farther than Mercury is to the sun) and it is hotter than Mercury? Well, why? This is because Venus’ atmosphere is full of carbon dioxide and sulphur oxide which traps the sun’s radiation and heat!!! We know that we have the ozone layer that reflects radiation and less carbon dioxide that reflects/ doesn’t trap the sun’s heat. Well, Venus is the opposite. Although Venus looks like a beautiful planet, underneath its catastrophic clouds are full of acid rain and raging volcanos. Since then, NASA and other missions did not recommend probes or rockets to go there. A fun and interesting fact about Venus is that a day on Venus is longer than a year on Venus! Here are more interesting facts about Venus
-Unlike the other planets in our solar system, Venus spins opposite.
- Venus is the second brightest natural object in the night sky after the Moon
-Venus has 90 times the atmospheric pressure of Earth
-Earth 
+- Unlike the other planets in our solar system, Venus spins opposite.
+- Venus is the second brightest natural object in the night sky after the Moon
+- Venus has 90 times the atmospheric pressure of Earth
+                                                                    
 Earth is the only planet that has valuable water and life on it. It is a very unique planet to exist. Although in a couple hundred million years the sun would burn away the Earth’s atmosphere. Earth is in the habitable orbit and has all the conditions to support life! Earth is the biggest terrestrial planet in our solar system! Earth is 6371 km in radius and 147.11 million km from the sun! It has a strong magnetic field and atmosphere to keep us alive. Here are some fun facts to learn about!
 Plate Tectonics Keep the Planet Comfortable:
 Earth is Almost a Sphere, it is more like an oval!
